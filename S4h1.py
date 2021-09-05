@@ -1,3 +1,6 @@
+#parisa najari ghahremani thursday 14-18
+#tabeiy ke bar asase shekle darkhasti karbar hajm va masahat ra mohasebe mikonad 
+
 def core(r:float,dastor):
     if dastor=='hajm':
         hajm=(4/3)*3.14*r**2
