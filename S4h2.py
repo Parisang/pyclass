@@ -1,4 +1,5 @@
-
+#parisa najari ghahremani thursday 14-18
+#tabeiy ke etehad haye mokhtalef ra bar asase darkhast karbar ejra mikone
 def etehad_2_moraba(a:int,b:int,darkhast):
 
     if darkhast=='total':
